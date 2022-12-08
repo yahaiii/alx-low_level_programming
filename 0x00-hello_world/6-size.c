@@ -10,7 +10,7 @@ int main(void)
 {
 	char typeChar;
 	int typeInt;
-	long long int typeLong;
+	long int typeLong;
 	long long int typeLongLong;
 	float typeFloat;
 
