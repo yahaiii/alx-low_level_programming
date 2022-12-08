@@ -2,9 +2,9 @@
 #include <string.h>
 
 int main () {
-	char str[51];
+	char str[52];
 
-	strcpy(str, "Programming is like building a multilingual puzzle");
+	strcpy(str, "\"Programming is like building a multilingual puzzle");
 
 	puts(str);
 
