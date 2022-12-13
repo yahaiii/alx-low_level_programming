@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * main - print alphabet
- *
- * Return: Always 0
+ * print_alphabet - does just that using putchar &loop
  */
 void print_alphabet(void)
 {
