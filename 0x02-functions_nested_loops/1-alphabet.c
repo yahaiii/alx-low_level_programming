@@ -5,9 +5,11 @@
  *
  * Return: Always 0
  */
-int main(void)
+void print_alphabet(void)
 {
-	print_alphabet();
+	char alph;
 
-	return (0);
+	for (alph = 'a'; alph <= 'z'; alph++)
+		_putchar(alph);
+	_putchar('\n');
 }
