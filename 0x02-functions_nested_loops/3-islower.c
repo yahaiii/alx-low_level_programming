@@ -7,7 +7,7 @@
  * Return: On success 1.
  * When char isn't a lowercase letter, 0 is returned.
  */
-int _islower(char c)
+int _islower(int c)
 {
 	if (c >= 'a' && c <= 'z')
 		return (1);
