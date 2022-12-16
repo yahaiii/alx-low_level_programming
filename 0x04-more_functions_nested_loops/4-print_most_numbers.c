@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_numbers - prints 0 to 9 with _putchar, ignore 2&4
+ * print_most_numbers - prints 0 to 9 except 2&4 with _putchar
  *
- * Return: 0 - 9, minus 2&4
+ * Return: 0 - 9, except 2&4
  */
 void print_most_numbers(void)
 {
